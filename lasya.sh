@@ -1,1 +1,2 @@
-echo $home 
+mkdir lasya
+touch brinda.txt
