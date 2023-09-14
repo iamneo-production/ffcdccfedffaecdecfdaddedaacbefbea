@@ -1,2 +1,3 @@
-mkdir prasad
-touch radha.txt
+mkdir sh
+touch vi.txt
+touch ll.txt
